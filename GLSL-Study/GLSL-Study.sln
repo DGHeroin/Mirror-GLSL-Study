@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cubemap", "cubemap\cubemap.vcproj", "{A1C2F676-35EE-4D06-9AEB-8C62367ECA61}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "helloworld", "helloworld\helloworld.vcproj", "{AEFD519A-4FB1-4F45-A4C7-A3CCCC638CD7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "color", "color\color.vcproj", "{D05757BB-DA9A-4AB3-B910-AF32D2124B2A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "toonshading", "toonshading\toonshading.vcproj", "{91436FC4-CAFE-45F0-B206-F0F63027A21A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1C2F676-35EE-4D06-9AEB-8C62367ECA61}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A1C2F676-35EE-4D06-9AEB-8C62367ECA61}.Debug|Win32.Build.0 = Debug|Win32
+		{A1C2F676-35EE-4D06-9AEB-8C62367ECA61}.Release|Win32.ActiveCfg = Release|Win32
+		{A1C2F676-35EE-4D06-9AEB-8C62367ECA61}.Release|Win32.Build.0 = Release|Win32
+		{AEFD519A-4FB1-4F45-A4C7-A3CCCC638CD7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AEFD519A-4FB1-4F45-A4C7-A3CCCC638CD7}.Debug|Win32.Build.0 = Debug|Win32
+		{AEFD519A-4FB1-4F45-A4C7-A3CCCC638CD7}.Release|Win32.ActiveCfg = Release|Win32
+		{AEFD519A-4FB1-4F45-A4C7-A3CCCC638CD7}.Release|Win32.Build.0 = Release|Win32
+		{D05757BB-DA9A-4AB3-B910-AF32D2124B2A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D05757BB-DA9A-4AB3-B910-AF32D2124B2A}.Debug|Win32.Build.0 = Debug|Win32
+		{D05757BB-DA9A-4AB3-B910-AF32D2124B2A}.Release|Win32.ActiveCfg = Release|Win32
+		{D05757BB-DA9A-4AB3-B910-AF32D2124B2A}.Release|Win32.Build.0 = Release|Win32
+		{91436FC4-CAFE-45F0-B206-F0F63027A21A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{91436FC4-CAFE-45F0-B206-F0F63027A21A}.Debug|Win32.Build.0 = Debug|Win32
+		{91436FC4-CAFE-45F0-B206-F0F63027A21A}.Release|Win32.ActiveCfg = Release|Win32
+		{91436FC4-CAFE-45F0-B206-F0F63027A21A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
